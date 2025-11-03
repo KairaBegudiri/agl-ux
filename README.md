@@ -6,6 +6,7 @@ Anime Game Launcher for BSD, QUNICS and MacOS
 <br>
 ## Progress
 <hr>
+
 | OS    | Situation       | Stable Release Date |
 |--------------|-------------|--------------|
 | GNU/Linux | In development | x
