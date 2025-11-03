@@ -1,2 +1,2 @@
 # Anime Game Launcher for UNIX
-![Uploading resim.png…]()
+<img width="653" height="736" alt="resim" src="https://github.com/user-attachments/assets/365f81b3-4380-4468-a4e2-bc97a5c40f87" />
