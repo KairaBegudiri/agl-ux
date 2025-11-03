@@ -1,1 +1,1 @@
-# agl-ux
+# Anime Game Launcher for UNIX
